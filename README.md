@@ -20,16 +20,16 @@ This project is a console-based version of the 2048 game. The goal is to combine
 1. Clone the repository:
 
    bash
-   git clone https://github.com/yourusername/Game2048.git
+   git clone https://github.com/MaakhishSai/2048-Game.git
 
 2. Navigate to the project directory:
-     cd Game2048
+     cd 2048-Game
    
 4. Compile the source code using a C++ compiler, such as g++:
-    g++ -o game2048 game2048.cpp
+    g++ -o 2048-Game 2048.cpp
 
 5. Run the executable:
-    ./game2048
+    ./2048-Game
 
 
 #Usage
